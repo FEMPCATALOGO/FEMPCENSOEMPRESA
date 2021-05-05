@@ -28,7 +28,7 @@ classes: wide
   
 |Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
 | -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
-|   |   |    |   |    |    |    |     |     |       |
+|  Hacienda  |  Innexistente |  *[Repositorio](https://github.com/opencitydata/vocab-hacienda-censo-empresas)*  |  *[Generar Issues](https://github.com/opencitydata/vocab-hacienda-censo-empresas/issues)* |  Este dataset contiene el censo de empresas que pagan los impuestos en las entidades locales, por lo que se puede considerar que este conjunto de datos contendrá, en principio, un subconjunto de las empresas que están registradas en el municipio  |    |    |     |     |       |
  
   
 
